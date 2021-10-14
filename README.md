@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=social&logo=appveyor&logo=data:;base64,<BASE64_DATA>)
 
 ![](https://simpleicons.org/icons/500px.svg)
-
