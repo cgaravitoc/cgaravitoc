@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="cgaravitoc | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 
+https://img.shields.io/badge/twitter-mohammed__16695-1da1f2.svg?&style=for-the-badge&logo=twitter
+
+
+<img align="left" alt="Arduino" width="26px" src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" />
+
 
 ## Connect with me
 [<img align="left" alt="cgaravitoc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
