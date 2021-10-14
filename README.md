@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 <br>
 
 <!-- Abbreviationss -->
-[twitter]: https://twitter.com/cgaravitoc
-[instagram]: https://instagram.com/cgaravitoc
+<!-- [twitter]: https://twitter.com/cgaravitoc 
+[instagram]: https://instagram.com/cgaravitoc -->
 [linkedin]: https://www.linkedin.com/in/cgaravitoc/
