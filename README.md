@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 ***
 
 ## Connect with me
-[<img align="left" alt="cgaravitoc | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
-[<img align="left" alt="cgaravitoc | Instagram" width="22px" src="https://www.adverthia.com/wp-content/uploads/2020/02/instagram-logo-png-transparent-background-1024x1024-1-600x600.png" />][instagram]
+<!-- [<img align="left" alt="cgaravitoc | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
+[<img align="left" alt="cgaravitoc | Instagram" width="22px" src="https://www.adverthia.com/wp-content/uploads/2020/02/instagram-logo-png-transparent-background-1024x1024-1-600x600.png" />][instagram] -->
 [<img align="left" alt="cgaravitoc | LinkedIn" width="22px" src="https://www.seekpng.com/png/full/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png" />][LinkedIn]
 <br>
 
