@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="cgaravitoc | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 
-https://img.shields.io/badge/twitter-mohammed__16695-1da1f2.svg?&style=for-the-badge&logo=twitter
-
 
 <img align="left" alt="Arduino" width="26px" src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" />
+
+<img align="left" alt="Rasperry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 
 
 ## Connect with me
