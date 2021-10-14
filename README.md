@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-?style=social&logo=appveyor
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?s?style=social&logo=appveyor&logoColor=white&color=2bbc8a)
+
