@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a promgramming, AI and quantum computing enthusiast. 
+I am a promgramming, machine learning, artifitial intelligence and quantum computing enthusiast. 
 
 ***
 <!--
